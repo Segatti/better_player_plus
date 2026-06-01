@@ -1,3 +1,7 @@
+## 1.3.2
+
+* iOS: remove `@interface BetterPlayerPlugin` duplicada em `BetterPlayerPlugin.h` (implementação em Swift) para compatibilidade com `use_frameworks!` e archive no Xcode
+
 ## 1.3.0
 
 * Added iOS Swift Package Manager (SPM) support
